@@ -1,0 +1,11 @@
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\bin\Debug\net5.0\Airport.Common.deps.json
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\bin\Debug\net5.0\Airport.Common.dll
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\bin\Debug\net5.0\ref\Airport.Common.dll
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\bin\Debug\net5.0\Airport.Common.pdb
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\obj\Debug\net5.0\Airport.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\obj\Debug\net5.0\Airport.Common.AssemblyInfoInputs.cache
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\obj\Debug\net5.0\Airport.Common.AssemblyInfo.cs
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\obj\Debug\net5.0\Airport.Common.csproj.CoreCompileInputs.cache
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\obj\Debug\net5.0\Airport.Common.dll
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\obj\Debug\net5.0\ref\Airport.Common.dll
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\obj\Debug\net5.0\Airport.Common.pdb
