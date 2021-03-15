@@ -9,3 +9,4 @@ C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\obj\Debug\net5.0\
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\obj\Debug\net5.0\Airport.Common.dll
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\obj\Debug\net5.0\ref\Airport.Common.dll
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\obj\Debug\net5.0\Airport.Common.pdb
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Common\obj\Debug\net5.0\Airport.Common.csprojAssemblyReference.cache
