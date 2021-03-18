@@ -1,0 +1,91 @@
+Name,TownId,Phone
+ES Alicante Airport,1,34913211001
+NL Amsterdam Schiphol Airport,2,31207940800
+NL Amsterdam DLP2 Doorlaatpost 2 Airport,2,31207940801
+NL Amsterdam Schiphol Tower Airport,2,31207940802
+NL Amsterdam JetSupport b.v. Airport,2,31207940803
+RU Anapa Airport,3,78003011991		
+GR Athens International Airport,4,302103530020 
+ES Barcelona Josep T Airport,5,34923211000
+IT Bari Airport,6,390805800200
+RS Belgrade Nikola Tesla Airport,7,381112094444
+NO Bergen International Airport,8,4767031555
+DE Berlin Brandenburg Airport,9,4930609160910
+ES Bilbao Airport,10,34913211002
+GB Birmingham Airport,11,448712220072
+IT Bologna Guglielmo Marconi,12,390516479615
+FR Bordeaux Airport,13,33556345050
+GB Bristol Airport,14,448713344444
+BE Brussels Airport,15,3227537029
+BE Brussels South Charleroi,15,3290202490
+BE Brussels South Charleroi,15,3290202490
+RO Bucharest Henri C Airport,16,40213370400
+HU Budapest Airport,17,3612967000
+IT Cagliari Elmas Airport,18,39070211211
+IT Catania Fontanarossa,19,390957239111
+DE Cologne Airport,20,492203404001
+DK Copenhagen,21,4532313231
+IE Dublin Airport,22,35318141111
+DE Dusseldorf International,23,492114210
+GB Edinburgh Airport,24,448444488833
+CH Geneva GVA Airport,25,41224275790
+CH Geneva GGV Airport,26,41224275790
+GB Glasgow Airport,27,443444815555
+SE Gothenburg Landvetter Airport,28,46101093100
+DE Hamburg Airport,29,494050750
+DE Hamburg Flughafen Airport,29,494050750
+DE Hanover Airport,30,495119770
+FI Helsinki Airport,31,35820014636
+TR Istanbul Airport,32,902124441442
+RU Kazan Airport,33,78432678807
+RU Krasnodar Airport,34,78003011991
+PT Lisbon Airport,35,351218413500
+GB London City Airport,36,442076460000
+GB London Biggin Hill Airport,36,441959578500
+GB London Elstree Aerodrome,36,442089537480
+GB London Station Jewels Airport,36,442033227723
+GB London Pickups,36,442086887744
+GB Heathrow Airport,36,448443351801
+FR Lyon Saint ExupEry Airport,37,0559220502
+ES Madrid Barajas Airport,38,913055771
+MT Malta Airport,39,35621249600
+GB Manchester Airport,40,448081697030
+FR Marseille Provence Airport,41,33820811414
+IT Milan Malpensa Airport,42,3902232323
+BY Minsk National Airport,43,375172791300
+RU Moscow Airport,44,74955786565
+DE Munchen Airport,45,498997500
+ES Malaga Costa del Sol,46,34913211003
+FR Nice Airport,47,33950340504
+NO Oslo Airport,48,4764812000
+IT Palermo Falcone Borcellino,49,39800541880
+ES Palma de Mallorca Airport,50,34913211004
+FR Paris CDG,51,33170363950
+FR Paris Le Bourget,51,33148621656
+FR Paris Orly Airport,51,33892563950
+FR Paris Orly 3,51,33892563950
+RU Petersburg Pulkovo Airport,52,78123373822
+IT Pisa Airport,53,39050849111
+CZ Prague Vaclav Havel Airport,54,420220111888
+CZ Prague Marriott,54,420236077077
+IT Roma Urbe Airport,55,390688643187
+IT Rome Fiumicino Airport,55,390665951
+IT Rome Ciampino Airport,55,390665951 
+IT Roma Urbe Airport,55,390688643187
+IT Roma Ciampino Airport,55,390665951
+ES Seville Airport,56,34954449000
+BG Sofia Airport,57,35929372211
+SE Stockholm Arlanda Airport,58,46101091000
+SE Stockholm Radisson Blu Airport,58,46850674000
+SE Stockholm Arlanda T3,58,46850674000
+SE Stockholm Aeropuerto Skavasta,58,46850674000 
+SE Stockholm Swedavia AB,58,46850674000
+FR Toulouse Airport,59,33825380000
+ES Valencia Airport,60,34913211005
+AT Vienna Airport,61,43170070
+PL Warsaw General Aviation,62,48226504220
+PL Warsaw Lotnisko Chopina,62,48226504220
+PL Warszaw Airport,62,48226504220
+PL Warszaw Babice Airport,62,48261855481
+PL Warszaw Przedsiebiorstwo P,62,48226501111
+CH Zurich Airport,63,438162211

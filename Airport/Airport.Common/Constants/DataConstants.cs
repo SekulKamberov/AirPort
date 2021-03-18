@@ -42,8 +42,8 @@
 
         public class Airport
         {
-            public const int NameMaxLength = 10;
-            public const int PhoneMaxLength = 95;
+            public const int NameMaxLength = 50;
+            public const int PhoneMaxLength = 15;
         }
 
         public class Route
