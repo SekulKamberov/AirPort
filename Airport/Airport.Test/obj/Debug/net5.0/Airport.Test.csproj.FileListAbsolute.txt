@@ -2,7 +2,6 @@ C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Test\bin\Debug\net5.0\Ai
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Test\bin\Debug\net5.0\Airport.Test.dll
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Test\bin\Debug\net5.0\ref\Airport.Test.dll
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Test\bin\Debug\net5.0\Airport.Test.pdb
-C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Test\obj\Debug\net5.0\Airport.Test.csprojAssemblyReference.cache
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Test\obj\Debug\net5.0\Airport.Test.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Test\obj\Debug\net5.0\Airport.Test.AssemblyInfoInputs.cache
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Test\obj\Debug\net5.0\Airport.Test.AssemblyInfo.cs

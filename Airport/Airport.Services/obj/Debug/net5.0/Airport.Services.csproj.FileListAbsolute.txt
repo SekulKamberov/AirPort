@@ -2,11 +2,16 @@ C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\bin\Debug\net5.
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\bin\Debug\net5.0\Airport.Services.dll
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\bin\Debug\net5.0\ref\Airport.Services.dll
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\bin\Debug\net5.0\Airport.Services.pdb
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\bin\Debug\net5.0\Airport.Common.dll
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\bin\Debug\net5.0\Airport.Data.dll
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\bin\Debug\net5.0\Airport.Data.pdb
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\bin\Debug\net5.0\Airport.Common.pdb
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\obj\Debug\net5.0\Airport.Services.csprojAssemblyReference.cache
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\obj\Debug\net5.0\Airport.Services.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\obj\Debug\net5.0\Airport.Services.AssemblyInfoInputs.cache
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\obj\Debug\net5.0\Airport.Services.AssemblyInfo.cs
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\obj\Debug\net5.0\Airport.Services.csproj.CoreCompileInputs.cache
+C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\obj\Debug\net5.0\Airport.Services.csproj.CopyComplete
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\obj\Debug\net5.0\Airport.Services.dll
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\obj\Debug\net5.0\ref\Airport.Services.dll
 C:\Users\sekul\OneDrive\Desktop\AirPort\Airport\Airport.Services\obj\Debug\net5.0\Airport.Services.pdb

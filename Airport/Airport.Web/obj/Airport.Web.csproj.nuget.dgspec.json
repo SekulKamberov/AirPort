@@ -171,7 +171,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\sekul\\OneDrive\\Desktop\\AirPort\\Airport\\Airport.Data\\Airport.Data.csproj": {
+                "projectPath": "C:\\Users\\sekul\\OneDrive\\Desktop\\AirPort\\Airport\\Airport.Data\\Airport.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

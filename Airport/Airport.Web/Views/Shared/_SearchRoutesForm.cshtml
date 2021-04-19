@@ -1,0 +1,35 @@
+﻿@model SearchRouteFormModel
+
+@{
+    ViewData["Title"] = "Search Routes";
+}
+
+<form method="get" asp-controller="Routes" asp-action="Search" class="search-form">
+    <h3 class="text-left">Search routes</h3>
+
+    <div class="form-fields row">
+
+        <div class="form-group col-md-3">
+            <label asp-for="StartTown"></label>
+            <select asp-for="StartTown" asp-items="Model.Towns" class="form-control start-town" required></select>
+            <span asp-validation-for="StartTown" class="text-danger"></span>
+        </div>
+
+        <div class="form-group col-md-3">
+            <label asp-for="EndTown"></label>
+            <select asp-for="EndTown" asp-items="Model.Towns" class="form-control end-town" required></select>
+            <span asp-validation-for="EndTown" class="text-danger"></span>
+        </div>
+
+        <div class="form-group col-md-3">
+            <label asp-for="Date"></label>
+            <input asp-for="Date" value="dd/MM/yyyy" min="@DateTime.UtcNow.ToString("yyyy-MM-dd")" class="form-control date" />
+            <span asp-validation-for="Date" class="text-danger"></span>
+        </div>
+    </div>
+
+    <input type="hidden" asp-for="CompanyId" />
+    <input type="submit" value="Search" class="btn btn-success search-route" onclick="toDoValidationTownsNotSame" />
+
+
+</form>

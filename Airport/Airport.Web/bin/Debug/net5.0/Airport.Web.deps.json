@@ -1919,6 +1919,9 @@
         }
       },
       "Airport.Services/1.0.0": {
+        "dependencies": {
+          "Airport.Data": "1.0.0"
+        },
         "runtime": {
           "Airport.Services.dll": {}
         },

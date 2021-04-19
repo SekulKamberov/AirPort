@@ -4,9 +4,15 @@
     {
         public class User
         {
+            public const int UsernameMinLength = 4;
+
+            public const int UsernameMaxLength = 20;
+
             public const int NameMaxLength = 35;
 
             public const int PasswordMinLength = 3;
+
+            public const int PasswordMaxLength = 100;
         }
 
         public class Review
@@ -33,6 +39,8 @@
 
             public const int AddressMinLength = 10;
             public const int AddressMaxLength = 95;
+
+            public const int ChiefNameMaxLength = 20;
         }
 
         public class Town

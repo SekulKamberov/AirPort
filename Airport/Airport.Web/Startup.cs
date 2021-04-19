@@ -57,8 +57,8 @@ namespace Airport.Web
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            app.UseDatabaseMigration();
-            app.Seed();
+            //app.UseDatabaseMigration();
+            //app.Seed();
 
             if (env.IsDevelopment())
             {

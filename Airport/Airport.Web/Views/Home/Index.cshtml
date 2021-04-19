@@ -1,0 +1,20 @@
+﻿@model SearchRouteFormModel
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<environment include="Development">
+    <link rel="stylesheet" href="~/css/home/home.css" />
+    <link href="https://fonts.googleapis.com/css?family=Lobster" hreflang="stylesheet" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+</environment>
+
+
+<div class="container-fluid col-md-10 home-container">
+    <h1>Home Index Works</h1>
+    @*<partial name="_SearchRoutesForm" model="Mode" />*@
+    @Html.Partial("_SearchRoutesForm", Model)
+
+
+</div>
